@@ -10,6 +10,7 @@ Then the resulting decision tree C 5.0 algorithm is maximized by using AdaBoost 
 
 # Journal
 Details can read the original version of the journal at http://jurnal.upnyk.ac.id/index.php/telematika/article/view/3181
+Published October 2019
 
 # Notes
 This script has not been maximized with the AdaBoost algorithm.
