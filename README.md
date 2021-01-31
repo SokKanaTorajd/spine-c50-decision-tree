@@ -9,7 +9,7 @@ The results showed that the C 5.0 algorithm was able to identify with accuracy o
 Then the resulting decision tree C 5.0 algorithm is maximized by using AdaBoost algorithm, so the accuracy increases to 83%.
 
 # Journal
-Details can read the original version of the journal at http://jurnal.upnyk.ac.id/index.php/telematika/article/view/3181
+Details can read the original version of the journal at http://jurnal.upnyk.ac.id/index.php/telematika/article/view/3181 <br>
 Published October 2019
 
 # Notes
